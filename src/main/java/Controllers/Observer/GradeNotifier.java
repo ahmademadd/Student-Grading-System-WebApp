@@ -1,5 +1,5 @@
-package Observer;
-import Socket.StudentClient;
+package Controllers.Observer;
+import Models.StudentClient;
 import java.io.PrintWriter;
 import java.util.List;
 import java.util.Vector;

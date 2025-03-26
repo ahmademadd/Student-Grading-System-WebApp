@@ -1,6 +1,6 @@
-package Observer;
-import DAO.MySQLDAO;
-import Socket.StudentClient;
+package Controllers.Observer;
+import Controllers.DAO.MySQLDAO;
+import Models.StudentClient;
 import java.util.HashMap;
 import java.util.Map;
 

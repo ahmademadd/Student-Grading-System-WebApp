@@ -1,4 +1,4 @@
-package DAO;
+package Controllers.DAO;
 import Models.Student;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,4 +1,4 @@
-package Socket;
+package View.ClientSocket;
 import java.io.*;
 import java.net.*;
 

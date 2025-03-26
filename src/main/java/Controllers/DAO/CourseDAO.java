@@ -1,4 +1,4 @@
-package DAO;
+package Controllers.DAO;
 
 public class CourseDAO {
 

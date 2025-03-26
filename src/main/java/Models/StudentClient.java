@@ -1,4 +1,4 @@
-package Socket;
+package Models;
 import java.io.BufferedReader;
 import java.io.PrintWriter;
 
@@ -7,7 +7,7 @@ public class StudentClient {
     private final PrintWriter out;
     private final String email;
 
-    StudentClient(String email, BufferedReader in, PrintWriter out) {
+    public StudentClient(String email, BufferedReader in, PrintWriter out) {
         this.email = email;
         this.in = in;
         this.out = out;

@@ -1,7 +1,9 @@
-package Socket;
-import DAO.MySQLDAO;
-import Observer.DatabaseWatcher;
-import Observer.GradeNotifier;
+package Controllers.ServerSocket;
+import Controllers.DAO.MySQLDAO;
+import Controllers.Observer.DatabaseWatcher;
+import Controllers.Observer.GradeNotifier;
+import Models.StudentClient;
+
 import java.io.*;
 import java.net.*;
 

@@ -1,5 +1,5 @@
-package DAO;
-import Observer.GradeNotifier;
+package Controllers.DAO;
+import Controllers.Observer.GradeNotifier;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
